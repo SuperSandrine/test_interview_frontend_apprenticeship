@@ -2,9 +2,9 @@
 J'ai construit la partie React avec Vite et javascript en limitant le nombre de dépendances au package de base de Vite.
 
 ## getting started
--cloner le projet
--faire la commande "npm install"
--faire la commande "npm run dev" pour vidualiser le projet dans un onglet e votre navigateur
+- cloner le projet
+- faire la commande "npm install"
+- faire la commande "npm run dev" pour vidualiser le projet dans un onglet e votre navigateur
 
 ### Amélioriations
  - Des types pourraient être rajoutés pour la maintenabilité du code, avec protypes ou encore l'utilisation de Typescript.
