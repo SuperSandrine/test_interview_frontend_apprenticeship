@@ -1,19 +1,14 @@
-import { useState } from 'react'
-import './App.css'
 import Greeting from './components/Greeting/Greeting'
 import Counter from './components/Counter/Counter'
 import NameList from './components/NameList/NameList'
-
 import { names } from './components/NameList/names'
 
-
 function App() {
-
   return (
     <>
       <Greeting name="Bryan"></Greeting>
-      <h2> I&apos;m Sandrine Mestas Gleizes, test pour &quot;Check App&quot; : React part</h2>
       <section>
+      <h2> I&apos;m Sandrine Mestas Gleizes, test pour &quot;Check App&quot; : React part</h2>
         <article>
           <h3> Task 1: Functional Component : </h3>
           <p> présenter en H1 de cette page </p>
