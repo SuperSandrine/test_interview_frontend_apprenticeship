@@ -1,6 +1,9 @@
-#
+# CheckAppTest 
 J'ai construit la partie React avec Vite et javascript.
-Des protypes pourraient être rajouter pour la maintenabilité du code, ou encore l'utilisation de Typescript.
+
+### Amélioriations
+ - Des types pourraient être rajoutés pour la maintenabilité du code, avec protypes ou encore l'utilisation de Typescript.
+ - Du style pourrait être rajouté avec un fichier css, ou l'utilisation d'outils tel que StyledComponents ou Tailwind.
 
 ## React + Vite
 
